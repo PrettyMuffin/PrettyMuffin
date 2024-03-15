@@ -27,16 +27,4 @@
   <a href="https://visualstudio.microsoft.com/it/vs/" target="_blank">
     <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   </a>
-  <a href="https://developer.apple.com/xcode/" target="_blank">
-    <img alt="XCode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white%22%3E">
-  </a>
-  <a href="https://replit.com/" target="_blank">
-    <img alt="Repl" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white%22%3E">
-  </a>
-  <a href="https://www.arduino.cc/en/software" target="_blank">
-    <img alt="Arduino IDE" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white%22%3E">
-  </a>
-  <a href="https://www.arduino.cc/en/software" target="_blank">
-    <img alt="Arduino IDE" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
-  </a>
 </p>
