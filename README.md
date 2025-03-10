@@ -9,13 +9,19 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </a>
   <a href="" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
-  </a>
-  <a href="" target="_blank">
     <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white%22%3E">
   </a>
   <a href="" target="_blank">
     <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white%22%3E">
+  </a>
+  <a href="" target="_blank">
+    <img alt="C++" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white%22%3E">
+  </a>
+  <a href="" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white%22%3E">
+  </a>
+  <a href="" target="_blank">
+    <img alt="Lua" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white%22%3E">
   </a>
 </p>
 
